@@ -36,7 +36,6 @@ The application displays a list of users on the homepage. Clicking on the "View 
 - Fetch (for fetching data and making HTTP requests)
 - Tailwind CSS (for styling)
 - Framer Motion (for loading animation)
-- Jest and React Testing Library (for testing)
 
 
 ## Folder Structure
