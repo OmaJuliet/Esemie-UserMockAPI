@@ -18,7 +18,7 @@ To get this React typescript application on your local machine, you need to foll
 - Run `npm i framer-motion` to install the framer motion animation library
 
 
-### Usage
+### Running and Testing the application
 
 1. Run this command `npx json-server --watch data/db.json --port 8000` in your terminal to watch the db.json file and wrap the API endpoint running on port 8000
 2. Run `yarn run dev` to start the development server.
@@ -27,7 +27,7 @@ To get this React typescript application on your local machine, you need to foll
 
 ### Application Details
 
-The application displays a list of users on the homepage. Clicking on the "View full details" button on each user row will take you to a page that displays the user's full details. The data for the application is provided by a mocked API in the "data/db.json" file.
+The application displays a list of users on the homepage. Clicking on the "View full details" button on each user row will take you to a page that displays the selected user's full details. The data for the application is provided by a mocked API in the "data/db.json" file.
 
 
 ### Technologies Used
