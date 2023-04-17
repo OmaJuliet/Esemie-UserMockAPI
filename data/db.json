@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Juliet Oma",
+      "email": "julie@yahoo.com",
+      "number": "08100000000",
+      "id": 1
+    },
+    {
+      "name": "Emmanuel Sunday",
+      "email": "nuel@yahoo.com",
+      "number": "08111111111",
+      "id": 2
+    },
+    {
+      "name": "Zainab Ahmed",
+      "email": "zainabahmed@gmail.com",
+      "number": "09022222222",
+      "id": 3
+    },
+    {
+      "name": "Grace Mariam",
+      "email": "gracemariam1@gmail.com",
+      "number": "09033333333",
+      "id": 4
+    },
+    {
+      "name": "Ernest William",
+      "email": "willy789@gmail.com",
+      "number": "08044444444",
+      "id": 5
+    },
+    {
+      "name": "Favour Tems",
+      "email": "tems123@yahoo.com",
+      "number": "08155555555",
+      "id": 6
+    }
+  ]
+}
